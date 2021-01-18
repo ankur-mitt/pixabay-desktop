@@ -1,0 +1,26 @@
+body {
+    height: 100vh;
+    background-image: url('imgs/bg-search.jpg');
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat no-repeat;
+}
+
+.uk-container {
+    background-color: rgba(255, 255, 255, 0.50);
+    width: 60vw;
+    max-width: 800px;
+    border-radius: 0.5rem;
+}
+
+.uk-search {
+    display: block;
+    margin: auto;
+    border: 1px solid #A0A0A0;
+    width: 70%;
+    background-color: rgba(255, 255, 255, 0.60);
+}
+
+.uk-search:hover {
+    background-color: azure;
+}

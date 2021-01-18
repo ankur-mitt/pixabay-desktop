@@ -2,16 +2,40 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Pixabay Desktop</title>
+    <!-- https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP -->
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'">
+    <meta http-equiv="X-Content-Security-Policy" content="default-src 'self'; script-src 'self'">
+    <!-- uikit styles and javascript -->
+    <link rel="stylesheet" href="node_modules/uikit/dist/css/uikit.min.css">
+    <script src="node_modules/uikit/dist/js/uikit.min.js"></script>
+    <script src="node_modules/uikit/dist/js/uikit-icons.min.js"></script>
+    <!-- custom styles -->
+    <link rel="stylesheet" href="index.css">
 </head>
 <body>
-<div>
-    <h1>Stunning free images & royalty free stock</h1>
-    <h3>Over 1.9 million+ high quality stock images, videos and music shared by our talented community.</h3>
-</div>
 
-We are using Node.js <span id="node-version"></span>, Chromium <span id="chrome-version"></span>, and Electron <span
-        id="electron-version"></span>.
+<div class="uk-section-large">
+    <div class="uk-container uk-padding">
+        <div class="uk-text-center uk-margin">
+            <div class="uk-text-lead uk-text-primary uk-margin-small-bottom">
+                Stunning free images & royalty free stock
+            </div>
+            <div class="uk-text-meta uk-text-secondary">
+                Over 1.9 million+ high quality stock images, videos and music shared by our talented community.
+            </div>
+        </div>
+        <br>
+        <div class="uk-margin-small-top">
+            <form class="uk-search uk-search-default uk-margin-small-bottom" id="search-form">
+                <span uk-search-icon></span>
+                <label for="search-value"></label>
+                <input class="uk-search-input" type="search" placeholder="Pixabay" id="search-value">
+            </form>
+        </div>
+    </div>
+</div>
 
 <!-- You can also require other files to run in this process -->
 <script src="./renderer.js"></script>
