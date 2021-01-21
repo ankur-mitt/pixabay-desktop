@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f5719261-28d1-41fa-970f-8e86660b028b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/bg-search.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resultspreload.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/Ankur.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/Ankur.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/preload.js" beforeDir="false" afterPath="$PROJECT_DIR$/preload.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/renderer.js" beforeDir="false" afterPath="$PROJECT_DIR$/renderer.js" afterDir="false" />
-    </list>
+    <list default="true" id="f5719261-28d1-41fa-970f-8e86660b028b" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,7 +51,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1610917319610</updated>
-      <workItem from="1610917323959" duration="30170000" />
+      <workItem from="1610917323959" duration="30307000" />
     </task>
     <servers />
   </component>
