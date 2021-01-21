@@ -1,4 +1,16 @@
-# electron-quick-start
+# pixabay-desktop-app
+
+Desktop app to search images using the pixabay database of 1.9 million+ items. The app uses the pixabay API for the same.
+It has been made using electron.js, so it will work on all the major platforms (i.e. windows, mac and linux based OSs).
+
+**Screenshots of the working application**
+
+![Main app](/screenshots/main.png?raw=true "Main app")
+![Search results](/screenshots/search.png?raw=true "Search results")
+![Opened image](/screenshots/image.png?raw=true "Opened image")
+![Zoomed image](/screenshots/image-zoom.png?raw=true "Zoomed image")
+
+# Project bootstrapped using : electron-quick-start
 
 **Clone and run for a quick way to see Electron in action.**
 
