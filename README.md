@@ -5,7 +5,7 @@ It has been made using electron.js, so it will work on all the major platforms (
 
 **Screenshots of the working application**
 
-![Main app](/screenshots/main.png?raw=true&s=200 "Main app")
+![Main app](/screenshots/main.png?raw=true&s=200|width=200px "Main app")
 ![Search results](/screenshots/search.png?raw=true "Search results"){ width=50% }
 ![Opened image](/screenshots/image.png?raw=true "Opened image"){ width=50% }
 ![Zoomed image](/screenshots/image-zoom.png?raw=true "Zoomed image"){ width=50% }
