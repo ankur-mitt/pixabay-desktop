@@ -5,10 +5,10 @@ It has been made using electron.js, so it will work on all the major platforms (
 
 **Screenshots of the working application**
 
-![Main app](/screenshots/main.png?raw=true "Main app" =500x)
-![Search results](/screenshots/search.png?raw=true "Search results" =500x)
-![Opened image](/screenshots/image.png?raw=true "Opened image" =500x)
-![Zoomed image](/screenshots/image-zoom.png?raw=true "Zoomed image" =500x)
+![Main app](/screenshots/main.png?raw=true =500x "Main app")
+![Search results](/screenshots/search.png?raw=true =500x "Search results")
+![Opened image](/screenshots/image.png?raw=true =500x "Opened image")
+![Zoomed image](/screenshots/image-zoom.png?raw=true =500x "Zoomed image")
 
 # Project bootstrapped using : electron-quick-start
 
