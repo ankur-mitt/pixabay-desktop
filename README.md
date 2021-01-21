@@ -6,6 +6,7 @@ It has been made using electron.js, so it will work on all the major platforms (
 **Screenshots of the working application**
 
 ![Main app](/screenshots/main.png "Main app"){:height="50%" width="50%"}
+![Main app]<img src="/screenshots/main.png" width="400">
 ![Search results](/screenshots/search.png?raw=true "Search results"){ width=50% }
 ![Opened image](/screenshots/image.png?raw=true "Opened image"){ width=50% }
 ![Zoomed image](/screenshots/image-zoom.png?raw=true "Zoomed image"){ width=50% }
