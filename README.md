@@ -5,10 +5,10 @@ It has been made using electron.js, so it will work on all the major platforms (
 
 **Screenshots of the working application**
 
-<img src="/screenshots/main.png" raw=true alt="main app" width="50%">
-<img src="/screenshots/search.png" raw=true alt="search results" width="50%">
-<img src="/screenshots/image.png" raw=true alt="opened image" width="50%">
-<img src="/screenshots/image-zoom.png" raw=true alt="zoomed image" width="50%">
+<img src="/screenshots/main.png" alt="main app" width="50%" />
+<img src="/screenshots/search.png" alt="search results" width="50%" />
+<img src="/screenshots/image.png" alt="opened image" width="50%" />
+<img src="/screenshots/image-zoom.png" alt="zoomed image" width="50%" />
 
 # Project bootstrapped using : electron-quick-start
 
