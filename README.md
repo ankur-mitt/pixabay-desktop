@@ -5,10 +5,16 @@ It has been made using electron.js, so it will work on all the major platforms (
 
 **Screenshots of the working application**
 
-<img src="/screenshots/main.png" alt="main app" style="width: 50%; display: block; margin: auto;" />
-<img src="/screenshots/search.png" alt="search results" style="width: 50%; display: block; margin: auto;" />
-<img src="/screenshots/image.png" alt="opened image" style="width: 50%; display: block; margin: auto;" />
-<img src="/screenshots/image-zoom.png" alt="zoomed image" style="width: 50%; display: block; margin: auto;" />
+<table>
+    <tr>
+        <td><img src="/screenshots/main.png" alt="main app" style="display: block; margin: auto;"></td>
+        <td><img src="/screenshots/search.png" alt="search results" style="display: block; margin: auto;"></td>
+    </tr>
+    <tr>
+        <td><img src="/screenshots/image.png" alt="opened image" style="display: block; margin: auto;"></td>
+        <td><img src="/screenshots/image-zoom.png" alt="zoomed image" style="display: block; margin: auto;"></td>
+    </tr>
+</table>
 
 # Project bootstrapped using : electron-quick-start
 
