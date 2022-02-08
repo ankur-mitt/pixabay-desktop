@@ -20,6 +20,6 @@
     "electron": "^11.2.0"
   },
   "dependencies": {
-    "uikit": "^3.6.13"
+    "uikit": "^3.11.1"
   }
 }
